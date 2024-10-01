@@ -1,6 +1,6 @@
 package Exception;
 
-public class Lab5 {
+public class Lab5Bank {
     public static void main(String[] args) throws Exception {
             // throw
            // Custom Exception
